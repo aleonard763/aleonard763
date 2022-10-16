@@ -2,6 +2,8 @@ Hi There!
 
    I’m Andy Leonard (@aleonard763).
    
+![Andy Leonard](https://andyleonard.blog/wp-content/uploads/2019/05/cropped-AndyLeonard-transparent-1.png "Andy Leonard")
+   
    I’m interested in data integration / engineering with Azure Data factory and SSIS. I created Data Integration Lifecycle Management Suite to support enterprise DevOps with SSIS. Most DILMSuite utilities are free and many are open source (stored here)! Learn more by visiting [DILM Suite](https://dilmsuite.com).
    
    When I’m not creating DILM software, I deliver [consulting](https://entdna.com) and [training](https://entdna.com/training) for [Enterprise Data & Analytics](https://entdna.com).
