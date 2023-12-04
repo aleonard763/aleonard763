@@ -1,6 +1,6 @@
 Hi There!
 
-   I’m Andy Leonard (@aleonard763).
+   I’m Andy Leonard (@aleonard763). I blog at [AndyLeonard.blog](https://andyleonard.blog).
    
 ![Andy Leonard](https://andyleonard.blog/wp-content/uploads/2019/05/cropped-AndyLeonard-transparent-1.png "Andy Leonard")
    
